@@ -190,7 +190,7 @@ You may be getting these errors while pods wait too long in the "Pending" or "Cr
 ```
 Oc describe pod "pod-name" 
 ```
-**Sample Image:**
+**Sample Issue Image:**
 
  <img src="Pics/7-1.png" alt="Kerem's CloudNative a Sample Code" style="width: 500px;"/>
 
