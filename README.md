@@ -197,7 +197,7 @@ You may be getting these errors while pods wait too long in the "Pending" or "Cr
  
 **Architect's Important Note** 
 
-- This work is also **Fully-Supported** in other desired **Public Cloud** Environments, such as **Azure Cloud** and **AWS Cloud** etc...
+- This work is also **Fully-Supported** in other desired **Public Cloud** Environments, such as **Azure Cloud** and **AWS Cloud (Because of some security restrictions on AWS, you should do as you would on-Prem.)** etc...
  
 https://docs.microsoft.com/tr-tr/azure/openshift/configure-azure-ad-ui
 
