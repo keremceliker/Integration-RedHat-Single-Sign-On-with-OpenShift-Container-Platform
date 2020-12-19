@@ -188,7 +188,8 @@ You may be getting these errors while pods wait too long in the "Pending" or "Cr
 
 **To Run under in SSO Project** if you are not using the **Multi-Tenant Container** structure. 
 ```
-Oc describe pod "pod-name" 
+@Bastion:~$ oc describe pod "pod-name" 
+@Bastion:~$ oc logs -f dc/"application_name" or oc logs -f pod/"application_name"
 ```
 **Sample Issue Image:**
 
