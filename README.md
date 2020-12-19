@@ -20,7 +20,7 @@ That's why to handle such scenarios typically each application layer will have t
 So most often results in a kind of redundant authentication modules getting built and it gets closely tied with each of these applications so RedHat Single Sign-On user Federation capabilities exactly addresses these concern and provides a unified way to federate different user account systems. 
 
 
-- I have got Red Hat Openshift deployed inside of VMware vSphere Bare-Metal.  
+- I have got **Red Hat Openshift** deployed inside of **VMware vSphere**Bare-Metal.  
 
 - Im going to go ahead and create a sample project for SSO.
 
@@ -194,4 +194,14 @@ You may be getting these errors while pods wait too long in the "Pending" or "Cr
 **Sample Issue Image:**
 
  <img src="Pics/7-1.png" alt="Kerem's CloudNative a Sample Code" style="width: 500px;"/>
+
+**References:**
+
+https://access.redhat.com/documentation/en-us/openshift_container_platform/4.5/html/support/troubleshooting
+
+https://access.redhat.com/documentation/en-us/red_hat_single_sign-on/7.4/
+
+https://access.redhat.com/documentation/en-us/red_hat_single_sign-on/7.4/html/red_hat_single_sign-on_for_openshift_on_openjdk/get_started#image-streams-applications-templates
+
+https://docs.vmware.com/en/VMware-Validated-Design/6.0.1/vmware-validated-design-601-sddc-architecture-design-red-hat-openshift-workload-domain.pdf
 
