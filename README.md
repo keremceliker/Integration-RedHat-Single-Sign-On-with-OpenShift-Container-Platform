@@ -179,7 +179,7 @@ So most often results in a kind of redundant authentication modules getting buil
 * Insufficient Memory 
 * ImagePullBackOff
 * Failed Scheduling 
-* Read/Liveness Probe Issues
+* Readiness/Liveness Probe Issues
 ```
 
 You can utterly resolve the above errors primarily by "Pod Debug" and by investigating the relevant circle-ish application links.
