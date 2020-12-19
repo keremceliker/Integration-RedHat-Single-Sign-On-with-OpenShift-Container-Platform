@@ -168,12 +168,29 @@ Voila we're logged in using the Single Sign-On to Openshift Container Platform.
 
  
 
-Hope you Learned and Enjoyed ! 
+**Hope you Learned and Enjoyed !**
 
  
 ***Benefical Notes*** 
 
- 
+ You may get some errors when creating Pods for SSO. These will mostly be as follows: 
 
+```
+* Insufficient Memory 
+* PullBackOff Error 
+* Failed Scheduling 
+* Read/Liveness Probe Issues
+```
 
- 
+You can utterly resolve the above errors primarily by "Pod Debug" and by investigating the relevant circle-ish application links.
+
+You may be getting these errors while pods wait too long in the "Pending" or "Creating Container" state. That's why it's important to run the following command to check and find out if you've received an error. 
+
+**To Run under in SSO Project** if you are not using the **Multi-Tenant Container** structure. 
+```
+Oc describe pod "pod-name" 
+```
+**Sample Image:**
+
+ <img src="Pics/7.png" alt="Kerem's CloudNative a Sample Code" style="width: 500px;"/>
+
