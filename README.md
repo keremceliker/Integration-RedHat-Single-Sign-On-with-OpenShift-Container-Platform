@@ -177,7 +177,7 @@ So most often results in a kind of redundant authentication modules getting buil
 
 ```
 * Insufficient Memory 
-* PullBackOff Error 
+* ImagePullBackOff
 * Failed Scheduling 
 * Read/Liveness Probe Issues
 ```
