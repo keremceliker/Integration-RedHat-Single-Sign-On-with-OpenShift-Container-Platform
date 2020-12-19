@@ -5,5 +5,5 @@
 - Blog: **`www.keremceliker.com`**
 
 
-  <img src="pics/Overview.png" alt="Kerem's CloudNative a Sample Code" style="width: 500px;"/>
+  <img src="Pics/Overview.png" alt="Kerem's CloudNative a Sample Code" style="width: 500px;"/>
 </p>
