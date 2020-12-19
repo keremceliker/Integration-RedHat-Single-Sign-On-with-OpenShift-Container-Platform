@@ -195,8 +195,12 @@ You may be getting these errors while pods wait too long in the "Pending" or "Cr
 
  <img src="Pics/7-1.png" alt="Kerem's CloudNative a Sample Code" style="width: 500px;"/>
  
-This work is also **Fully-Supported** in other desired **Public Cloud** Environments, such as **Azure Cloud** and **AWS Cloud** etc...
+**Architect's Important Note** 
+
+- This work is also **Fully-Supported** in other desired **Public Cloud** Environments, such as **Azure Cloud** and **AWS Cloud** etc...
  
+https://docs.microsoft.com/tr-tr/azure/openshift/configure-azure-ad-ui
+
 https://docs.microsoft.com/tr-tr/azure/openshift/configure-azure-ad-ui
 
 **References:**
