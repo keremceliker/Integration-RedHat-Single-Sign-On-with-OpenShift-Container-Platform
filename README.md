@@ -201,7 +201,7 @@ You may be getting these errors while pods wait too long in the "Pending" or "Cr
  
 https://docs.microsoft.com/tr-tr/azure/openshift/configure-azure-ad-ui
 
-https://docs.microsoft.com/tr-tr/azure/openshift/configure-azure-ad-ui
+https://www.openshift.com/blog/openshift-blog-aro-aad
 
 **References:**
 
