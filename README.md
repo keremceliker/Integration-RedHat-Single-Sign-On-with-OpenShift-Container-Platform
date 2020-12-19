@@ -192,5 +192,5 @@ Oc describe pod "pod-name"
 ```
 **Sample Image:**
 
- <img src="Pics/7.png" alt="Kerem's CloudNative a Sample Code" style="width: 500px;"/>
+ <img src="Pics/7-1.png" alt="Kerem's CloudNative a Sample Code" style="width: 500px;"/>
 
