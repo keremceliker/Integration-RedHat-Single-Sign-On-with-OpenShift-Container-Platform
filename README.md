@@ -1,4 +1,4 @@
-# Part 2 - Integration Red Hat Single Sign-On with OpenShift v4.x Container Platform
+# Part 1 - Integration Red Hat Single Sign-On with OpenShift v4.x Container Platform
 *Written by Kerem ÇELİKER*
 - Linkedin: **`linkedin.com/in/keremceliker`**
 - Twitter: **`@CloudRss`**
